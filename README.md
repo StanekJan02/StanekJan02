@@ -64,7 +64,7 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <td align="center" valign="middle" width="50%">
 <br>
-<img src="M8.png" alt="Screenshot programu" width="400" />
+<img src="M8.jpg" alt="Screenshot programu" width="400" />
 <br><br>
 </td>
 
