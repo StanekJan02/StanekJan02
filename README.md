@@ -34,7 +34,7 @@
         <img src="python.svg" alt="Python" width="40" height="40" />
         <br><br>
       </td>
-    </tr>S
+    </tr>
   </table>
 </div>
 
