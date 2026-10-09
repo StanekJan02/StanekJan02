@@ -1,4 +1,4 @@
-# Hi, I'm Jan! 👋
+# Hi, I'm Jan
 
 I'm currently in my final semester of Computer Science engineering studies at the Silesian University of Technology. I enjoy building robust backend architectures and desktop applications, and I am actively looking for an **IT Internship** or a **Junior Software Engineer** role to kickstart my career. 
 
