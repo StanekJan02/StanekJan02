@@ -1,14 +1,13 @@
-# 🌌 Cześć, jestem Jan! 
+# 1
 
 ---
 
-### 🛰️ O mnie
+### 2
 
-[Tutaj wpisz swój własny opis...]
 
 ---
 
-### 🪐 Technologie, którymi nawiguję
+### 3
 
 **Backend & Desktop**
 <br>
@@ -26,16 +25,11 @@
 <img src="https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-**Narzędzia & DevOps**
-<br>
-<img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Maven-333333?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
 
 ---
 
-### 🌑 Główne konstelacje (Projekty)
+### (Projekty)
 
-*   🌌 **AstroStacker** — Aplikacja desktopowa do stackowania zdjęć astrofotograficznych. Zbudowana w C# (WPF) z silnikiem backendowym w natywnym C++ (OpenCV, LibRaw) i przetwarzaniem wielowątkowym.
-*   🔒 **NLP Anonymization Pipeline** — Zautomatyzowany system do anonimizacji danych osobowych w tekstach, zbudowany w Pythonie z użyciem Microsoft Presidio, spaCy i udostępniany przez FastAPI.
-*   🛡️ **Federated Learning z Differential Privacy** — Symulacja w Pythonie (scikit-learn) modelująca bezpieczną agregację danych przy użyciu algorytmu FedAvg z wprowadzaniem szumu Gaussa.
+*   🌌 **AstroStacker** 
+*   🔒 **NLP Anonymization Pipeline**
+*   🛡️ **Federated Learning z Differential Privacy**
