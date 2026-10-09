@@ -13,8 +13,6 @@
   </table>
 </div>
 
-### Technologie, którymi nawiguję
-
 <div>
   <table>
     <tr>
