@@ -15,6 +15,6 @@
 
 <br>
 <div align="center">
-  <img src="https://ghchart.rshah.org/b026ff/StanekJan02" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/neon-graph-dark.svg" alt="GitHub Contribution Graph" />
 </div>
 <br>
