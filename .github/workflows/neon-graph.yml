@@ -29,14 +29,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.SNAKE_TOKEN }}
         run: |
+          mkdir -p dist
           COUNT=$(gh api graphql -f query='query { user(login: "${{ github.repository_owner }}") { contributionsCollection { contributionCalendar { totalContributions } } } }' --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
-          cat <<EOF > dist/contributions.svg
-          <svg xmlns="http://www.w3.org/2000/svg" width="400" height="40">
-            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="bold" font-size="18" fill="#ffffff">
-              Contributions this year: <tspan fill="#b026ff">${COUNT}</tspan>
-            </text>
-          </svg>
-          EOF
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="400" height="40">' > dist/contributions.svg
+          echo '  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="bold" font-size="18" fill="#ffffff">' >> dist/contributions.svg
+          echo '    Contributions this year: <tspan fill="#b026ff">'"${COUNT}"'</tspan>' >> dist/contributions.svg
+          echo '  </text>' >> dist/contributions.svg
+          echo '</svg>' >> dist/contributions.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
