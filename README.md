@@ -1,20 +1,10 @@
 # 🌌 Cześć, jestem Jan! 
 
-<div align="center">
-  <p><i>„Eksploruję kod z taką samą pasją, z jaką patrzę w nocne niebo.”</i></p>
-  <img src="https://komarev.com/ghpvc/?username=StanekJan02&color=6e7681&style=flat-square&label=odwiedziny+profilu" alt="Profile views" />
-</div>
-
 ---
 
 ### 🛰️ O mnie
 
-Jestem studentem ostatniego roku informatyki (VII semestr inżynierski) na Politechnice Śląskiej. Aktualnie przygotowuję się do wejścia w branżę IT, celując w role związane z inżynierią oprogramowania (Junior/Intern). Kiedy nie piszę backendu lub aplikacji desktopowych, prawdopodobnie kalibruję teleskop i zajmuję się astrofotografią.
-
-- 🔭 **Aktualnie pracuję nad:** Zaawansowanymi projektami w Java/Spring Boot oraz rozwojem mojego oprogramowania **AstroStacker** (C#/WPF/C++).
-- 🌱 **Eksploruję:** Uczenie federacyjne (Federated Learning), różnicową prywatność (Differential Privacy) oraz automatyzację NLP w Pythonie.
-- ⚙️ **Dodatkowo:** Lubię dłubać w sprzęcie – od mikrokontrolerów ESP32 po programowanie PLC, a także personalizować środowisko Windows.
-- 📫 **Kontakt:** stanekjan02@gmail.com
+[Tutaj wpisz swój własny opis...]
 
 ---
 
@@ -49,12 +39,3 @@ Jestem studentem ostatniego roku informatyki (VII semestr inżynierski) na Polit
 *   🌌 **AstroStacker** — Aplikacja desktopowa do stackowania zdjęć astrofotograficznych. Zbudowana w C# (WPF) z silnikiem backendowym w natywnym C++ (OpenCV, LibRaw) i przetwarzaniem wielowątkowym.
 *   🔒 **NLP Anonymization Pipeline** — Zautomatyzowany system do anonimizacji danych osobowych w tekstach, zbudowany w Pythonie z użyciem Microsoft Presidio, spaCy i udostępniany przez FastAPI.
 *   🛡️ **Federated Learning z Differential Privacy** — Symulacja w Pythonie (scikit-learn) modelująca bezpieczną agregację danych przy użyciu algorytmu FedAvg z wprowadzaniem szumu Gaussa.
-
----
-
-### 📊 Statystyki z misji
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StanekJan02&show_icons=true&hide_border=true&bg_color=161b22&title_color=c9d1d9&text_color=8b949e&icon_color=6e7681" height="150" alt="Statystyki GitHuba" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanekJan02&layout=compact&hide_border=true&bg_color=161b22&title_color=c9d1d9&text_color=8b949e" height="150" alt="Najczęściej używane języki" />
-</div>
