@@ -39,22 +39,22 @@
 </div>
 
 <div>
-  <table>
-    <tr>
-      <!-- Lewa kolumna: Projekt -->
-      <td align="left" valign="top" width="50%">
-        <br>
-        <b>Featured Projects:</b><br><br>
-        <a href="https://github.com/StanekJan02/StanekJan02">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Profile README" />
-        </a>
-        <br><br>
-      </td>
-      
-      <!-- Prawa kolumna: Screenshot -->
-      <td align="center" valign="middle" width="50%">
-        <img src="M8.png" alt="Screenshot programu" width="400" />
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<!-- Lewa kolumna: Projekt -->
+<td align="left" valign="top" width="50%">
+<br>
+<b>Featured Projects:</b><br><br>
+<a href="https://github.com/StanekJan02/StanekJan02">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Profile README" />
+</a>
+<br><br>
+</td>
+
+<!-- Prawa kolumna: Screenshot -->
+<td align="center" valign="middle" width="50%">
+<img src="M8.png" alt="Screenshot programu" width="400" />
+</td>
+</tr>
+</table>
 </div>
