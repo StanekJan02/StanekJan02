@@ -28,10 +28,10 @@
       <td align="left">
         <br>
         <b>Tech Stack:</b><br><br>
-        <img src="assets/cplusplus.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;
-        <img src="assets/csharp.svg" alt="C#" width="40" height="40" />&nbsp;&nbsp;
-        <img src="assets/java.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;
-        <img src="assets/python.svg" alt="Python" width="40" height="40" />
+        <img src="cplusplus.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;
+        <img src="csharp.svg" alt="C#" width="40" height="40" />&nbsp;&nbsp;
+        <img src="java.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;
+        <img src="python.svg" alt="Python" width="40" height="40" />
         <br><br>
       </td>
     </tr>
