@@ -53,7 +53,7 @@
 
 <!-- Prawa kolumna: Screenshot -->
 <td align="center" valign="middle" width="50%">
-<img src="M8.png" alt="Screenshot programu" width="400" />
+<img src="M8.jpg" alt="Screenshot programu" width="400" />
 </td>
 </tr>
 </table>
