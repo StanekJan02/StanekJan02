@@ -37,3 +37,22 @@
     </tr>
   </table>
 </div>
+
+<div>
+  <table>
+    <tr>
+      <td align="left">
+        <br>
+        <b>Featured Projects:</b><br><br>
+        <a href="https://github.com/StanekJan02/NAZWA_REPO_1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=NAZWA_REPO_1&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Project 1" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/StanekJan02/NAZWA_REPO_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=NAZWA_REPO_2&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Project 2" />
+        </a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
