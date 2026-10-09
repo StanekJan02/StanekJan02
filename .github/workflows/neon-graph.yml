@@ -23,7 +23,7 @@ jobs:
           outputs: |
             dist/neon-graph-dark.svg?palette=github-dark&color_dots=#161b22,#4a0f69,#7a18ad,#9f1fe6,#b026ff&color_snake=#b026ff
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
           
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
