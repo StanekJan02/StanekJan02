@@ -16,6 +16,13 @@
 <br>
 <br>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/contributions.svg" alt="Contributions Count" />
+  <br>
+  <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/neon-graph-dark.svg" alt="GitHub Contribution Graph" />
+</div>
+<br>
+<br>
+<div align="center">
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/neon-graph-dark.svg" alt="GitHub Contribution Graph" />
 </div>
 <br>
