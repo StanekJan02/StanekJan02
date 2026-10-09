@@ -19,3 +19,21 @@
   <br>
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/neon-graph-dark.svg" alt="GitHub Contribution Graph" />
 </div>
+
+<br>
+
+<div>
+  <table>
+    <tr>
+      <td align="left">
+        <br>
+        <b>Tech Stack:</b><br><br>
+        <img src="assets/cplusplus.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;
+        <img src="assets/csharp.svg" alt="C#" width="40" height="40" />&nbsp;&nbsp;
+        <img src="assets/java.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;
+        <img src="assets/python.svg" alt="Python" width="40" height="40" />
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
