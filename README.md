@@ -14,8 +14,9 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StanekJan02&show_icons=true&hide_border=true&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&count_private=true" alt="Jan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StanekJan02&show_icons=true&hide_border=true&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&count_private=true&hide=stars,issues,prs" alt="Jan's GitHub Commits" />
 </div>
+<br>
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/neon-graph-dark.svg" alt="GitHub Contribution Graph" />
