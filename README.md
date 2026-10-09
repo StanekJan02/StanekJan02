@@ -15,13 +15,6 @@
   </table>
 </div>
 
----
-
-### 2
-
-
----
-
 ### 3
 
 **Backend & Desktop**
