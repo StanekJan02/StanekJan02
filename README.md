@@ -13,14 +13,11 @@
   </table>
 </div>
 
-### Technologie, którymi nawiguję
-
 <div>
   <table>
     <tr>
       <td align="left">
         <br>
-        <!-- Tutaj wkleisz zawartość drugiej ramki -->
         <br>
       </td>
     </tr>
