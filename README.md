@@ -14,47 +14,31 @@
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/contributions.svg" alt="Contributions Count" />
   <br>
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/neon-graph-dark.svg" alt="GitHub Contribution Graph" />
 </div>
 
-<br>
-
-<div>
-  <table>
-    <tr>
-      <td align="left">
-        <br>
-        <b>Tech Stack:</b><br><br>
-        <img src="cplusplus.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;
-        <img src="csharp.svg" alt="C#" width="40" height="40" />&nbsp;&nbsp;
-        <img src="java.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;
-        <img src="python.svg" alt="Python" width="40" height="40" />
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div>
-<table>
-<tr>
-<!-- Lewa kolumna: Projekt -->
-<td align="left" valign="top" width="50%">
-<br>
-<b>Featured Projects:</b><br><br>
-<a href="https://github.com/StanekJan02/StanekJan02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Profile README" />
-</a>
 <br><br>
-</td>
 
-<!-- Prawa kolumna: Screenshot -->
-<td align="center" valign="middle" width="50%">
-<img src="M8.jpg" alt="Screenshot programu" width="400" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <b>Tech Stack</b><br><br>
+  <img src="assets/cplusplus.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/csharp.svg" alt="C#" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/java.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/python.svg" alt="Python" width="40" height="40" />
 </div>
+
+<br><br>
+
+<div align="center">
+  <b>Featured Projects</b><br><br>
+  <a href="https://github.com/StanekJan02/StanekJan02">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Profile README" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="M8.png" alt="Screenshot programu" width="400" />
+</div>
+<br>
