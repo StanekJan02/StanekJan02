@@ -26,18 +26,45 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <h3 align="center">Tech Stack</h3>
 
-
 <div>
 <table>
 <tr>
-<td align="center" width="100%">
+
+<td align="center" width="50%">
 <br>
-<img src="cplusplus.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="csharp.svg" alt="C#" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="java.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="python.svg" alt="Python" width="40" height="40" />
+<b>C++ & C# (.NET)</b><br><br>
+<img src="assets/cplusplus.svg" alt="C++" width="35" />&nbsp;&nbsp;
+<img src="assets/opencv.svg" alt="OpenCV" width="35" />&nbsp;&nbsp;
+<img src="assets/csharp.svg" alt="C#" width="35" />&nbsp;&nbsp;
+<img src="assets/dotnet.svg" alt=".NET" width="35" />
+<br><br><br>
+<b>Java Backend</b><br><br>
+<img src="assets/java.svg" alt="Java" width="35" />&nbsp;&nbsp;
+<img src="assets/spring-boot.svg" alt="Spring Boot" width="35" />&nbsp;&nbsp;
+<img src="assets/docker.svg" alt="Docker" width="35" />&nbsp;&nbsp;
+<img src="assets/postman.svg" alt="Postman" width="35" />
 <br><br>
 </td>
+
+<td align="center" width="50%">
+<br>
+<b>Python (Data & ML)</b><br><br>
+<img src="assets/python.svg" alt="Python" width="35" />&nbsp;&nbsp;
+<img src="assets/numpy.svg" alt="NumPy" width="35" />&nbsp;&nbsp;
+<img src="assets/pandas.svg" alt="Pandas" width="35" />&nbsp;&nbsp;
+<img src="assets/matplotlib.svg" alt="Matplotlib" width="35" />&nbsp;&nbsp;
+<img src="assets/scikit.svg" alt="Scikit-Learn" width="35" />&nbsp;&nbsp;
+<img src="assets/pytorch.svg" alt="PyTorch" width="35" />
+<br><br><br>
+<b>Databases & Tools</b><br><br>
+<img src="assets/sql.svg" alt="SQL" width="35" />&nbsp;&nbsp;
+<img src="assets/postgresql.svg" alt="PostgreSQL" width="35" />&nbsp;&nbsp;
+<img src="assets/mongodb.svg" alt="MongoDB" width="35" />&nbsp;&nbsp;
+<img src="assets/git.svg" alt="Git" width="35" />&nbsp;&nbsp;
+<img src="assets/github.svg" alt="GitHub" width="35" />
+<br><br>
+</td>
+
 </tr>
 </table>
 </div>
