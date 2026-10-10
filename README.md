@@ -1,6 +1,6 @@
-
+<!-- RAMKA Z OPISEM -->
 <div>
-<table>
+<table width="100%">
 <tr>
 <td align="left">
 <br>
@@ -16,14 +16,16 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <br>
 
+<!-- NA ŚRODKU LICZNIK COMMITÓW ORAZ WĘŻYK -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/contributions.svg" alt="Contributions Count" />
   <br>
-  <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/neon-graph-dark.svg" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/neon-graph-dark.svg" alt="GitHub Contribution Graph" width="100%" />
 </div>
 
 <br>
 
+<!-- NA ŚRODKU TYTUŁ "TECH STACK" -->
 <h3 align="center">Tech Stack</h3>
 
 <!-- RAMKA Z IKONAMI Z PODZIAŁEM NA KATEGORIE -->
@@ -74,22 +76,22 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <br>
 
-
+<!-- NA ŚRODKU TYTUŁ "FEATURED PROJECTS" -->
 <h3 align="center">Featured Projects</h3>
 
-
+<!-- RAMKA Z DWOMA KOLUMNAMI NA PROJEKTY I SCREENSHOT -->
 <div>
-<table cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 
-
+<!-- Lewa kolumna: Projekt -->
 <td align="center" valign="middle" width="50%">
 <a href="https://github.com/StanekJan02/StanekJan02">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Profile README" />
 </a>
 </td>
 
-
+<!-- Prawa kolumna: Screenshot -->
 <td align="center" valign="middle" width="50%">
 <img src="M8.jpg" alt="Screenshot programu" width="100%" />
 </td>
