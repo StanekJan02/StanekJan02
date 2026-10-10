@@ -28,12 +28,14 @@ Beyond standard development, I love exploring data processing, machine learning,
 <!-- NA ŚRODKU TYTUŁ "TECH STACK" -->
 <h3 align="center">Tech Stack</h3>
 
-<!-- RAMKA Z IKONAMI Z PODZIAŁEM NA KATEGORIE ROZCIĄGNIĘTA NA 100% -->
+<!-- RAMKA Z IKONAMI Z PODZIAŁEM NA KATEGORIE -->
 <div>
   <table width="100%">
     <tr>
       <!-- Lewa kolumna -->
       <td align="center" valign="top" width="50%">
+        <!-- Niewidzialny wypychacz -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" /><br>
         <br>
         <b>C++ & C# (.NET)</b><br><br>
         <img src="assets/cplusplus.svg" alt="C++" width="35" />&nbsp;&nbsp;
@@ -50,6 +52,8 @@ Beyond standard development, I love exploring data processing, machine learning,
       </td>
       <!-- Prawa kolumna -->
       <td align="center" valign="top" width="50%">
+        <!-- Niewidzialny wypychacz -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" /><br>
         <br>
         <b>Python (Data & ML)</b><br><br>
         <img src="assets/python.svg" alt="Python" width="35" />&nbsp;
@@ -70,7 +74,6 @@ Beyond standard development, I love exploring data processing, machine learning,
     </tr>
   </table>
 </div>
-
 <br>
 
 <!-- NA ŚRODKU TYTUŁ "FEATURED PROJECTS" -->
