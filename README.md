@@ -1,4 +1,4 @@
-<!-- RAMKA Z OPISEM -->
+
 <div>
 <table width="100%">
 <tr>
@@ -16,7 +16,6 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <br>
 
-<!-- NA ŚRODKU LICZNIK COMMITÓW ORAZ WĘŻYK -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/contributions.svg" alt="Contributions Count" />
   <br>
@@ -25,17 +24,13 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <br>
 
-<!-- NA ŚRODKU TYTUŁ "TECH STACK" -->
 <h3 align="center">Tech Stack</h3>
 
-<!-- RAMKA Z IKONAMI Z PODZIAŁEM NA KATEGORIE -->
 <div>
   <table width="100%">
     <tr>
-      <!-- Lewa kolumna -->
       <td align="center" valign="top" width="50%">
-        <!-- Niewidzialny wypychacz -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" /><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" /><br>
         <br>
         <b>C++ & C# (.NET)</b><br><br>
         <img src="assets/cplusplus.svg" alt="C++" width="35" />&nbsp;&nbsp;
@@ -50,10 +45,8 @@ Beyond standard development, I love exploring data processing, machine learning,
         <img src="assets/postman.svg" alt="Postman" width="35" />
         <br><br>
       </td>
-      <!-- Prawa kolumna -->
       <td align="center" valign="top" width="50%">
-        <!-- Niewidzialny wypychacz -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" /><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" /><br>
         <br>
         <b>Python (Data & ML)</b><br><br>
         <img src="assets/python.svg" alt="Python" width="35" />&nbsp;
@@ -76,22 +69,18 @@ Beyond standard development, I love exploring data processing, machine learning,
 </div>
 <br>
 
-<!-- NA ŚRODKU TYTUŁ "FEATURED PROJECTS" -->
 <h3 align="center">Featured Projects</h3>
 
-<!-- RAMKA Z DWOMA KOLUMNAMI NA PROJEKTY I SCREENSHOT -->
 <div>
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 
-<!-- Lewa kolumna: Projekt -->
 <td align="center" valign="middle" width="50%">
 <a href="https://github.com/StanekJan02/StanekJan02">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Profile README" />
 </a>
 </td>
 
-<!-- Prawa kolumna: Screenshot -->
 <td align="center" valign="middle" width="50%">
 <img src="M8.jpg" alt="Screenshot programu" width="100%" />
 </td>
