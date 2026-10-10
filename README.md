@@ -29,8 +29,8 @@ Beyond standard development, I love exploring data processing, machine learning,
 <h3 align="center">Tech Stack</h3>
 
 <!-- RAMKA Z IKONAMI Z PODZIAŁEM NA KATEGORIE ROZCIĄGNIĘTA NA 100% -->
-<div style="width: 100%;">
-  <table width="100%" style="width: 100%;">
+<div>
+  <table width="100%">
     <tr>
       <!-- Lewa kolumna -->
       <td align="center" valign="top" width="50%">
