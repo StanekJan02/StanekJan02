@@ -26,11 +26,14 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <h3 align="center">Tech Stack</h3>
 
+<!-- RAMKA Z IKONAMI Z PODZIAŁEM NA KATEGORIE -->
 <div>
-  <table width="100%">
+  <table width="100%" cellpadding="0" cellspacing="0">
     <tr>
+      <!-- Lewa kolumna -->
       <td align="center" valign="top" width="50%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" /><br>
+        <!-- Niewidzialny elastyczny wypychacz -->
+        <img src="M8.jpg" width="100%" height="0" />
         <br>
         <b>C++ & C# (.NET)</b><br><br>
         <img src="assets/cplusplus.svg" alt="C++" width="35" />&nbsp;&nbsp;
@@ -45,8 +48,10 @@ Beyond standard development, I love exploring data processing, machine learning,
         <img src="assets/postman.svg" alt="Postman" width="35" />
         <br><br>
       </td>
+      <!-- Prawa kolumna -->
       <td align="center" valign="top" width="50%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" /><br>
+        <!-- Niewidzialny elastyczny wypychacz -->
+        <img src="M8.jpg" width="100%" height="0" />
         <br>
         <b>Python (Data & ML)</b><br><br>
         <img src="assets/python.svg" alt="Python" width="35" />&nbsp;
