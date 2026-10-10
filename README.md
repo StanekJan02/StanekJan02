@@ -26,47 +26,31 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <h3 align="center">Tech Stack</h3>
 
-<!-- RAMKA Z IKONAMI Z PODZIAŁEM NA KATEGORIE -->
+<!-- PROSTA RAMKA Z IKONAMI W JEDNYM CIĄGU -->
 <div>
-  <table width="100%" cellpadding="0" cellspacing="0">
+  <table width="100%">
     <tr>
-      <!-- Lewa kolumna -->
-      <td align="center" valign="top" width="50%">
-        <!-- Niewidzialny elastyczny wypychacz -->
-        <img src="M8.jpg" width="100%" height="0" />
+      <td align="center">
         <br>
-        <b>C++ & C# (.NET)</b><br><br>
-        <img src="assets/cplusplus.svg" alt="C++" width="35" />&nbsp;&nbsp;
-        <img src="assets/opencv.svg" alt="OpenCV" width="35" />&nbsp;&nbsp;
-        <img src="assets/csharp.svg" alt="C#" width="35" />&nbsp;&nbsp;
-        <img src="assets/dotnet.svg" alt=".NET" width="35" />
-        <br><br><br>
-        <b>Java Backend</b><br><br>
-        <img src="assets/java.svg" alt="Java" width="35" />&nbsp;&nbsp;
-        <img src="assets/spring-boot.svg" alt="Spring Boot" width="35" />&nbsp;&nbsp;
-        <img src="assets/docker.svg" alt="Docker" width="35" />&nbsp;&nbsp;
-        <img src="assets/postman.svg" alt="Postman" width="35" />
-        <br><br>
-      </td>
-      <!-- Prawa kolumna -->
-      <td align="center" valign="top" width="50%">
-        <!-- Niewidzialny elastyczny wypychacz -->
-        <img src="M8.jpg" width="100%" height="0" />
-        <br>
-        <b>Python (Data & ML)</b><br><br>
-        <img src="assets/python.svg" alt="Python" width="35" />&nbsp;
-        <img src="assets/numpy.svg" alt="NumPy" width="35" />&nbsp;
-        <img src="assets/pandas.svg" alt="Pandas" width="35" />&nbsp;
-        <img src="assets/matplotlib.svg" alt="Matplotlib" width="35" />&nbsp;
-        <img src="assets/scikit.svg" alt="Scikit-Learn" width="35" />&nbsp;
-        <img src="assets/pytorch.svg" alt="PyTorch" width="35" />
-        <br><br><br>
-        <b>Databases & Tools</b><br><br>
-        <img src="assets/sql.svg" alt="SQL" width="35" />&nbsp;&nbsp;
-        <img src="assets/postgresql.svg" alt="PostgreSQL" width="35" />&nbsp;&nbsp;
-        <img src="assets/mongodb.svg" alt="MongoDB" width="35" />&nbsp;&nbsp;
-        <img src="assets/git.svg" alt="Git" width="35" />&nbsp;&nbsp;
-        <img src="assets/github.svg" alt="GitHub" width="35" />
+        <img src="assets/cplusplus.svg" alt="C++" width="40" />&nbsp;&nbsp;
+        <img src="assets/opencv.svg" alt="OpenCV" width="40" />&nbsp;&nbsp;
+        <img src="assets/csharp.svg" alt="C#" width="40" />&nbsp;&nbsp;
+        <img src="assets/dotnet.svg" alt=".NET" width="40" />&nbsp;&nbsp;
+        <img src="assets/java.svg" alt="Java" width="40" />&nbsp;&nbsp;
+        <img src="assets/spring-boot.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;
+        <img src="assets/docker.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+        <img src="assets/postman.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+        <img src="assets/python.svg" alt="Python" width="40" />&nbsp;&nbsp;
+        <img src="assets/numpy.svg" alt="NumPy" width="40" />&nbsp;&nbsp;
+        <img src="assets/pandas.svg" alt="Pandas" width="40" />&nbsp;&nbsp;
+        <img src="assets/matplotlib.svg" alt="Matplotlib" width="40" />&nbsp;&nbsp;
+        <img src="assets/scikit.svg" alt="Scikit-Learn" width="40" />&nbsp;&nbsp;
+        <img src="assets/pytorch.svg" alt="PyTorch" width="40" />&nbsp;&nbsp;
+        <img src="assets/sql.svg" alt="SQL" width="40" />&nbsp;&nbsp;
+        <img src="assets/postgresql.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+        <img src="assets/mongodb.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
+        <img src="assets/git.svg" alt="Git" width="40" />&nbsp;&nbsp;
+        <img src="assets/github.svg" alt="GitHub" width="40" />
         <br><br>
       </td>
     </tr>
