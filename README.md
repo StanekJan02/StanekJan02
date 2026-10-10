@@ -26,11 +26,13 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <h3 align="center">Tech Stack</h3>
 
+<!-- RAMKA Z IKONAMI Z PODZIAŁEM NA KATEGORIE -->
 <div>
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="50%">
+<!-- Lewa kolumna -->
+<td align="center" valign="top" width="50%">
 <br>
 <b>C++ & C# (.NET)</b><br><br>
 <img src="assets/cplusplus.svg" alt="C++" width="35" />&nbsp;&nbsp;
@@ -46,14 +48,15 @@ Beyond standard development, I love exploring data processing, machine learning,
 <br><br>
 </td>
 
-<td align="center" width="50%">
+<!-- Prawa kolumna -->
+<td align="center" valign="top" width="50%">
 <br>
 <b>Python (Data & ML)</b><br><br>
-<img src="assets/python.svg" alt="Python" width="35" />&nbsp;&nbsp;
-<img src="assets/numpy.svg" alt="NumPy" width="35" />&nbsp;&nbsp;
-<img src="assets/pandas.svg" alt="Pandas" width="35" />&nbsp;&nbsp;
-<img src="assets/matplotlib.svg" alt="Matplotlib" width="35" />&nbsp;&nbsp;
-<img src="assets/scikit.svg" alt="Scikit-Learn" width="35" />&nbsp;&nbsp;
+<img src="assets/python.svg" alt="Python" width="35" />&nbsp;
+<img src="assets/numpy.svg" alt="NumPy" width="35" />&nbsp;
+<img src="assets/pandas.svg" alt="Pandas" width="35" />&nbsp;
+<img src="assets/matplotlib.svg" alt="Matplotlib" width="35" />&nbsp;
+<img src="assets/scikit.svg" alt="Scikit-Learn" width="35" />&nbsp;
 <img src="assets/pytorch.svg" alt="PyTorch" width="35" />
 <br><br><br>
 <b>Databases & Tools</b><br><br>
