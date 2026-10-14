@@ -23,9 +23,9 @@ Beyond standard development, I love exploring data processing, machine learning,
 </div>
 
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/radar.svg" alt="GitHub Activity Radar" width="65%" />
-</div>
+</div> -->
 
 <br>
 <h3 align="center">Tech Stack</h3>
