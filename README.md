@@ -67,57 +67,31 @@ Beyond standard development, I love exploring data processing, machine learning,
 <div>
 
   <table width="100%">
-
     <tr>
-
       <td align="center">
-
         <br>
-
         <img src="assets/cplusplus.svg" alt="C++" width="40" />&nbsp;&nbsp;
-
         <img src="assets/opencv.svg" alt="OpenCV" width="40" />&nbsp;&nbsp;
-
         <img src="assets/csharp.svg" alt="C#" width="40" />&nbsp;&nbsp;
-
         <img src="assets/dotnet.svg" alt=".NET" width="40" />&nbsp;&nbsp;
-
         <img src="assets/java.svg" alt="Java" width="40" />&nbsp;&nbsp;
-
         <img src="assets/spring-boot.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;
-
         <img src="assets/docker.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-
         <img src="assets/postman.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-
         <img src="assets/python.svg" alt="Python" width="40" />&nbsp;&nbsp;
-
         <img src="assets/numpy.svg" alt="NumPy" width="40" />&nbsp;&nbsp;
-
         <img src="assets/pandas.svg" alt="Pandas" width="40" />&nbsp;&nbsp;
-
         <img src="assets/matplotlib.svg" alt="Matplotlib" width="40" />&nbsp;&nbsp;
-
         <img src="assets/scikit.svg" alt="Scikit-Learn" width="40" />&nbsp;&nbsp;
-
         <img src="assets/pytorch.svg" alt="PyTorch" width="40" />&nbsp;&nbsp;
-
         <img src="assets/sql.svg" alt="SQL" width="40" />&nbsp;&nbsp;
-
         <img src="assets/postgresql.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-
         <img src="assets/mongodb.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-
         <img src="assets/git.svg" alt="Git" width="40" />&nbsp;&nbsp;
-
         <img src="assets/github.svg" alt="GitHub" width="40" />
-
         <br><br>
-
       </td>
-
     </tr>
-
   </table>
 
 </div>
