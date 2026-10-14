@@ -53,32 +53,4 @@ Beyond standard development, I love exploring data processing, machine learning,
         <img src="assets/pytorch.svg" alt="PyTorch" width="40" />&nbsp;&nbsp;
         <img src="assets/sql.svg" alt="SQL" width="40" />&nbsp;&nbsp;
         <img src="assets/postgresql.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-        <img src="assets/mongodb.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-        <img src="assets/git.svg" alt="Git" width="40" />&nbsp;&nbsp;
-        <img src="assets/github.svg" alt="GitHub" width="40" />
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
-
-<h3 align="center">Featured Projects</h3>
-
-<div>
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-
-<td align="center" valign="middle" width="50%">
-<a href="https://github.com/StanekJan02/StanekJan02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true" alt="Profile README" />
-</a>
-</td>
-
-<td align="center" valign="middle" width="50%">
-<img src="M8.jpg" alt="Screenshot programu" width="100%" />
-</td>
-
-</tr>
-</table>
-</div>
+        <img src="assets/mongodb.svg" alt="MongoDB" width
