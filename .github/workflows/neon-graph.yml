@@ -6,7 +6,7 @@ on:
   workflow_dispatch:    
   push:
     branches:
-      - main           
+      - main            
 
 jobs:
   generate:
@@ -16,6 +16,10 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # TEN KROK NAPRAWIA PROBLEM Z TŁEM - pobiera pliki z repozytorium
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -36,6 +40,7 @@ jobs:
           echo '    Contributions this year: <tspan fill="#b026ff">'"${COUNT}"'</tspan>' >> dist/contributions.svg
           echo '  </text>' >> dist/contributions.svg
           echo '</svg>' >> dist/contributions.svg
+          
       - name: Generate About Me SVG with Background Image
         run: |
           python3 -c "
@@ -43,7 +48,6 @@ jobs:
           import textwrap
 
           # Konfiguracja
-          # PODMIEŃ 'background.jpg' na nazwę swojego zdjęcia w repozytorium!
           BACKGROUND_IMAGE_PATH = 'M8.jpg' 
           
           # Twój tekst (użyto mechanizmu textwrap dla ładnego dzielenia wierszy)
@@ -125,6 +129,7 @@ jobs:
           with open('dist/about-me.svg', 'w') as f:
               f.write(svg)
           "    
+          
       - name: Generate Radar SVG
         env:
           GH_TOKEN: ${{ secrets.SNAKE_TOKEN }}
@@ -222,6 +227,7 @@ jobs:
           with open('dist/radar.svg', 'w') as f:
               f.write(svg)
           "
+          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
