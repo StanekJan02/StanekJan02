@@ -36,7 +36,95 @@ jobs:
           echo '    Contributions this year: <tspan fill="#b026ff">'"${COUNT}"'</tspan>' >> dist/contributions.svg
           echo '  </text>' >> dist/contributions.svg
           echo '</svg>' >> dist/contributions.svg
+      - name: Generate About Me SVG with Background Image
+        run: |
+          python3 -c "
+          import base64
+          import textwrap
+
+          # Konfiguracja
+          # PODMIEŃ 'background.jpg' na nazwę swojego zdjęcia w repozytorium!
+          BACKGROUND_IMAGE_PATH = 'background.jpg' 
           
+          # Twój tekst (użyto mechanizmu textwrap dla ładnego dzielenia wierszy)
+          TEXT_PARAGRAPH_1 = '''I'm currently in my final semester of Computer Science engineering studies at the Silesian University of Technology. I enjoy building robust backend architectures and desktop applications, and I am actively looking for an IT Internship or a Junior Software Engineer role to kickstart my career.'''
+          TEXT_PARAGRAPH_2 = '''Beyond standard development, I love exploring data processing, machine learning, and low-level hardware integration. When I'm away from the keyboard, you'll probably find me pointing my telescope at the night sky, capturing astrophotography, and developing my own image-stacking software.'''
+
+          # Przygotowanie obrazu jako Base64 (dla wbudowania w SVG)
+          try:
+              with open(BACKGROUND_IMAGE_PATH, 'rb') as img_file:
+                  img_data = img_file.read()
+                  b64_img = base64.b64encode(img_data).decode('utf-8')
+                  img_ext = BACKGROUND_IMAGE_PATH.split('.')[-1].lower()
+                  img_type = 'image/png' if img_ext == 'png' else 'image/jpeg'
+                  img_b64_string = f'data:{img_type};base64,{b64_img}'
+          except FileNotFoundError:
+              # Fallback na ciemne tło jeśli zdjęcie nie zostanie znalezione
+              print(f'Nie znaleziono pliku: {BACKGROUND_IMAGE_PATH}. Używam ciemnego tła.')
+              img_b64_string = ''
+
+          # Opcje ramki i tekstu
+          width, height = 800, 300 # Dopasuj wymiary SVG
+          padding = 40
+          line_height = 24
+          font_size = 15
+          font_family = 'Segoe UI, Helvetica, Arial, sans-serif'
+          text_color = '#ffffff'
+          accent_color = '#4fa3f7' # Jasnoniebieski jak na screenie
+
+          # Generowanie tła w SVG (zdjęcie lub szare pudełko)
+          if img_b64_string:
+              # Zastosowano opacity dla zdjęcia, aby tekst był bardziej czytelny i lekko przyciemniony nakładką
+              background_svg = f'''
+                  <image href=\"{img_b64_string}\" x=\"0\" y=\"0\" width=\"{width}\" height=\"{height}\" preserveAspectRatio=\"xMidYMid slice\" opacity=\"0.4\" />
+                  <rect x=\"0\" y=\"0\" width=\"{width}\" height=\"{height}\" fill=\"#0d1117\" opacity=\"0.6\" rx=\"6\" /> 
+              '''
+          else:
+             background_svg = f'<rect x=\"0\" y=\"0\" width=\"{width}\" height=\"{height}\" fill=\"#0d1117\" rx=\"6\" stroke=\"#30363d\" stroke-width=\"1\"/>'
+
+          # Formatowanie tekstu na linie (żeby się nie ucinał z boku)
+          lines_p1 = textwrap.wrap(TEXT_PARAGRAPH_1, width=95)
+          lines_p2 = textwrap.wrap(TEXT_PARAGRAPH_2, width=95)
+
+          # Składanie SVG
+          svg = f'''<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"{width}\" height=\"{height}\" viewBox=\"0 0 {width} {height}\">
+            <defs>
+               <!-- Definiujemy styl dla pogrubień i kolorów -->
+               <style>
+                  .bold {{ font-weight: bold; }}
+                  .accent {{ fill: {accent_color}; font-weight: bold; }}
+               </style>
+            </defs>
+
+            {background_svg}
+
+            <!-- Nagłówek -->
+            <text x=\"{padding}\" y=\"{padding + 15}\" fill=\"{text_color}\" font-size=\"18\" font-family=\"{font_family}\" class=\"bold\">Hi, I'm Jan!</text>
+
+            <!-- Paragraf 1 -->
+            '''
+          
+          current_y = padding + 60
+          for line in lines_p1:
+              # Prosta podmiana dla efektów ze screena
+              line = line.replace('IT Internship', f'</tspan><tspan class=\"accent\">IT Internship</tspan><tspan>')
+              line = line.replace('Junior Software Engineer', f'</tspan><tspan class=\"accent\">Junior Software Engineer</tspan><tspan>')
+              svg += f'<text x=\"{padding}\" y=\"{current_y}\" fill=\"{text_color}\" font-size=\"{font_size}\" font-family=\"{font_family}\"><tspan>{line}</tspan></text>'
+              current_y += line_height
+
+          current_y += 15 # Odstęp między paragrafami
+
+          # Paragraf 2
+          for line in lines_p2:
+              svg += f'<text x=\"{padding}\" y=\"{current_y}\" fill=\"{text_color}\" font-size=\"{font_size}\" font-family=\"{font_family}\">{line}</text>'
+              current_y += line_height
+
+          svg += '''
+          </svg>'''
+
+          with open('dist/about-me.svg', 'w') as f:
+              f.write(svg)
+          "    
       - name: Generate Radar SVG
         env:
           GH_TOKEN: ${{ secrets.SNAKE_TOKEN }}
