@@ -1,5 +1,5 @@
 
-<!-- <div>
+<div>
 <table width="100%">
 <tr>
 <td align="left">
@@ -12,11 +12,11 @@ Beyond standard development, I love exploring data processing, machine learning,
 </td>
 </tr>
 </table>
-</div> -->
-<div align="center">
+</div> 
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/about-me.svg" alt="About Me" width="100%" />
 </div>
-<br>
+<br> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/contributions.svg" alt="Contributions Count" />
