@@ -23,10 +23,13 @@ Beyond standard development, I love exploring data processing, machine learning,
 </div>
 
 <br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StanekJan02&theme=radical" alt="GitHub Activity Radar" />
+</div>
 
+<br>
 <h3 align="center">Tech Stack</h3>
 
-<!-- PROSTA RAMKA Z IKONAMI W JEDNYM CIĄGU -->
 <div>
   <table width="100%">
     <tr>
