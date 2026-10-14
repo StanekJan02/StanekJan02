@@ -24,7 +24,7 @@ Beyond standard development, I love exploring data processing, machine learning,
 
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StanekJan02&theme=radical" alt="GitHub Activity Radar" />
+  <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/output/radar.svg" alt="GitHub Activity Radar" width="65%" />
 </div>
 
 <br>
