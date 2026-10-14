@@ -44,7 +44,7 @@ jobs:
 
           # Konfiguracja
           # PODMIEŃ 'background.jpg' na nazwę swojego zdjęcia w repozytorium!
-          BACKGROUND_IMAGE_PATH = 'm8.jpg' 
+          BACKGROUND_IMAGE_PATH = 'M8.jpg' 
           
           # Twój tekst (użyto mechanizmu textwrap dla ładnego dzielenia wierszy)
           TEXT_PARAGRAPH_1 = '''I'm currently in my final semester of Computer Science engineering studies at the Silesian University of Technology. I enjoy building robust backend architectures and desktop applications, and I am actively looking for an IT Internship or a Junior Software Engineer role to kickstart my career.'''
