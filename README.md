@@ -68,22 +68,14 @@ Beyond standard development, I love exploring data processing, machine learning,
 <div>
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-
 <td align="center" valign="middle" width="50%">
 <a href="https://github.com/StanekJan02/StanekJan02">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true&v=2" alt="Profile README" />
 </a>
 </td>
-
 
 <td align="center" valign="middle" width="50%">
 <img src="M8.jpg" alt="Screenshot programu" width="100%" />
-</td>
-
-<td align="center" valign="middle" width="50%">
-<a href="https://github.com/StanekJan02/StanekJan02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=StanekJan02&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true&v=2" alt="Profile README" />
-</a>
 </td>
 </tr>
 
@@ -98,11 +90,6 @@ Beyond standard development, I love exploring data processing, machine learning,
 <td align="center" valign="middle" width="50%">
 <img src="https://raw.githubusercontent.com/StanekJan02/Exoplanet-Detector/main/assets/signal.png" alt="Exoplanet Signal Plot" width="100%" />
 </td>
-
-<td align="center" valign="middle" width="50%">
-<!-- Trzecia kolumna pozostaje pusta, chyba że zrobisz kolejny projekt! -->
-</td>
 </tr>
-
 </table>
 </div>
