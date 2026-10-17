@@ -91,7 +91,7 @@ Beyond standard development, I love exploring data processing, machine learning,
 <tr>
 <td align="center" valign="middle" width="50%">
 <a href="https://github.com/StanekJan02/Exoplanet-Detector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=exoplanet_detector&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true&v=2" alt="Exoplanet Detector" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StanekJan02&repo=exoplanet-detector&bg_color=161b22&title_color=b026ff&icon_color=b026ff&text_color=ffffff&hide_border=true&v=2" alt="Exoplanet Detector" />
 </a>
 </td>
 
