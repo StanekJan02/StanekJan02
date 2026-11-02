@@ -92,9 +92,6 @@ Beyond standard development, I love exploring data processing, machine learning,
 </div>
 </td>
 
-<td align="center" valign="middle" width="50%">
-<img src="https://raw.githubusercontent.com/StanekJan02/Exoplanet-Detector/main/assets/signal.png" alt="Exoplanet Signal Plot" width="100%" />
-</td>
-</tr>
+
 </table>
 </div>
