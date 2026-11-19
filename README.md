@@ -96,7 +96,7 @@ Beyond standard development, I love exploring data processing, machine learning,
   <p>Java / Jakarta EE system for registering patients and doctors, booking appointments with preferred doctors, and issuing prescriptions.</p>
 </td>
 <td align="center" valign="middle" width="50%">
-  <img src="https://raw.githubusercontent.com/StanekJan02/Clinic-Management-System/main/assets/preview.png" alt="Clinic Management System Preview" width="100%" />
+  <img src="https://raw.githubusercontent.com/StanekJan02/StanekJan02/preview.png" alt="Clinic Management System Preview" width="100%" />
 </td>
 </tr>
 </table>
