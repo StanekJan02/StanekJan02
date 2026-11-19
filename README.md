@@ -6,7 +6,7 @@
 <b>Hi, I'm Jan!</b><br><br>
 I'm currently in my final semester of Computer Science engineering studies at the Silesian University of Technology. I enjoy building robust backend architectures and desktop applications, and I am actively looking for an <b>IT Internship</b> or a <b>Junior Software Engineer</b> role to kickstart my career.
 <br><br>
-Beyond standard development, I love exploring data processing, machine learning, and low-level hardware integration. When I'm away from the keyboard, you'll probably find me pointing my telescope at the night sky capturing astrophotography
+Beyond standard development, I love exploring data processing, machine learning, and low-level hardware integration. When I'm away from the keyboard, you'll probably find me pointing my telescope at the night sky capturing astrophotography.
 <br><br>
 </td>
 </tr>
@@ -37,24 +37,24 @@ Beyond standard development, I love exploring data processing, machine learning,
     <tr>
       <td align="center">
         <br>
-        <img src="assets/cplusplus.svg" alt="C++" width="40" />&nbsp;&nbsp;
-        <img src="assets/opencv.svg" alt="OpenCV" width="40" />&nbsp;&nbsp;
-        <img src="assets/csharp.svg" alt="C#" width="40" />&nbsp;&nbsp;
-        <img src="assets/dotnet.svg" alt=".NET" width="40" />&nbsp;&nbsp;
-        <img src="assets/java.svg" alt="Java" width="40" />&nbsp;&nbsp;
-        <img src="assets/spring-boot.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;
-        <img src="assets/docker.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-        <img src="assets/postman.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-        <img src="assets/python.svg" alt="Python" width="40" />&nbsp;&nbsp;
-        <img src="assets/numpy.svg" alt="NumPy" width="40" />&nbsp;&nbsp;
-        <img src="assets/pandas.svg" alt="Pandas" width="40" />&nbsp;&nbsp;
-        <img src="assets/matplotlib.svg" alt="Matplotlib" width="40" />&nbsp;&nbsp;
-        <img src="assets/scikit.svg" alt="Scikit-Learn" width="40" />&nbsp;&nbsp;
-        <img src="assets/pytorch.svg" alt="PyTorch" width="40" />&nbsp;&nbsp;
-        <img src="assets/sql.svg" alt="SQL" width="40" />&nbsp;&nbsp;
-        <img src="assets/postgresql.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-        <img src="assets/mongodb.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-        <img src="assets/git.svg" alt="Git" width="40" />&nbsp;&nbsp;
+        <img src="assets/cplusplus.svg" alt="C++" width="40" />  
+        <img src="assets/opencv.svg" alt="OpenCV" width="40" />  
+        <img src="assets/csharp.svg" alt="C#" width="40" />  
+        <img src="assets/dotnet.svg" alt=".NET" width="40" />  
+        <img src="assets/java.svg" alt="Java" width="40" />  
+        <img src="assets/spring-boot.svg" alt="Spring Boot" width="40" />  
+        <img src="assets/docker.svg" alt="Docker" width="40" />  
+        <img src="assets/postman.svg" alt="Postman" width="40" />  
+        <img src="assets/python.svg" alt="Python" width="40" />  
+        <img src="assets/numpy.svg" alt="NumPy" width="40" />  
+        <img src="assets/pandas.svg" alt="Pandas" width="40" />  
+        <img src="assets/matplotlib.svg" alt="Matplotlib" width="40" />  
+        <img src="assets/scikit.svg" alt="Scikit-Learn" width="40" />  
+        <img src="assets/pytorch.svg" alt="PyTorch" width="40" />  
+        <img src="assets/sql.svg" alt="SQL" width="40" />  
+        <img src="assets/postgresql.svg" alt="PostgreSQL" width="40" />  
+        <img src="assets/mongodb.svg" alt="MongoDB" width="40" />  
+        <img src="assets/git.svg" alt="Git" width="40" />  
         <img src="assets/github.svg" alt="GitHub" width="40" />
         <br><br>
       </td>
@@ -88,10 +88,16 @@ Beyond standard development, I love exploring data processing, machine learning,
   <img src="https://raw.githubusercontent.com/StanekJan02/Exoplanet-Detector/main/assets/signal.png" alt="Exoplanet Signal Plot" width="100%" />
 </td>
 </tr>
-</table>
-</div>
+
+<!-- Trzeci projekt -->
+<tr>
+<td align="left" valign="middle" width="50%">
+  <h3><a href="https://github.com/StanekJan02/Clinic-Management-System">Clinic Management System</a></h3>
+  <p>Java / Jakarta EE system for registering patients and doctors, booking appointments with preferred doctors, and issuing prescriptions.</p>
 </td>
-
-
+<td align="center" valign="middle" width="50%">
+  <img src="https://raw.githubusercontent.com/StanekJan02/Clinic-Management-System/main/assets/preview.png" alt="Clinic Management System Preview" width="100%" />
+</td>
+</tr>
 </table>
 </div>
